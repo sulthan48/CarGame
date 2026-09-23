@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drive 3D",
+  "description": "Realistic 3D car simulator featuring dynamic vehicle physics, third-person and cockpit views, highway and city environments, day/night cycles, and customizable sports cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
